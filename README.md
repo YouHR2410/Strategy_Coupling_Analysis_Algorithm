@@ -33,3 +33,8 @@ demo.ipynb：第一部分调用上述文件的函数得到计算结果，进行�
 
 
 
+## Calculate
+
+调用calculate_real_from_csv()计算策略之前协方差。
+
+调用A5_matrix_X()计算A5矩阵的实耦合。其中A5矩阵有两种模式选择。
