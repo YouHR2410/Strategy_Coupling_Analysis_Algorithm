@@ -56,3 +56,15 @@ figure：线性回归拟合的图形，其中A5矩阵对两种模式进行了二
 ![](figure/A5_4.236.png)
 由此验证了实耦合的重大意义，为通过实耦合这个观测量，来预测策略之间的关系提供了理论基础。
 
+##参考文献
+[1]Wang Z, Zhou S, Yao Q, et al. Dynamic Structure in Four-strategy Game: Theory and Experiment[J]. arXiv preprint arXiv:2203.14669, 2022.
+
+论文地址：https://arxiv.org/pdf/2203.14669.pdf
+
+[2]Wang Z, Yao Q, Wang Y. Eigen mode selection in human subject game experiment[J]. arXiv preprint arXiv:2204.08071, 2022.
+
+论文地址：https://arxiv.org/pdf/2204.08071.pdf
+
+[3]Wang, Z. (2022). Game dynamics structure control by design: an example from experimental economics. arXiv preprint arXiv:2203.06088
+
+论文地址：https://arxiv.org/pdf/2203.06088.pdf
