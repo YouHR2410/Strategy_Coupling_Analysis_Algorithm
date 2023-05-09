@@ -44,20 +44,28 @@ figure：线性回归拟合的图形，其中A5矩阵对两种模式进行了二
 ## 结果分析
 对线性回归及拟合的结果进行分析（见figure以及result），可以发现，在A4,Y5矩阵中，策略协方差与实耦合之间有着明显的线性关系；
 在A5矩阵中，策略协方差与两种模式的实耦合也具有明显的线性性质。
-<center><p>Y5  x轴：实耦合  y轴：策略协方差</p></center>
+
 ![](figure/Y5.png)
+<center><p>Y5  x轴：实耦合  y轴：策略协方差</p></center>
 
 
-<center><p>A4 a = 4 ,  x轴：实耦合  y轴：策略协方差</p></center>
 ![](figure/A4_4.png)
+<center><p>A4 a = 4 ,  x轴：实耦合  y轴：策略协方差</p></center>
 
 
-<center><p>A5 a = 4.236 ,  x轴：模式1实耦合  y轴：模式2实耦合 z轴:策略协方差</p></center>
 ![](figure/A5_4.236.png)
+<center><p>A5 a = 4.236 ,  x轴：模式1实耦合  y轴：模式2实耦合 z轴:策略协方差</p></center>
+
+
+
+
 由此验证了实耦合的重大意义，为通过实耦合这个观测量，来预测策略之间的关系提供了理论基础。
 
-##参考文献
-[1]Wang Z, Zhou S, Yao Q, et al. Dynamic Structure in Four-strategy Game: Theory and Experiment[J]. arXiv preprint arXiv:2203.14669, 2022.
+
+
+## 参考文献
+[1]Wang Z, Zhou S, Yao Q, et al. Dynamic Structure in Four-strategy Game: Theory and Experiment[J]. arXiv preprint arXiv:2203.14669, 2022.    
+
 
 论文地址：https://arxiv.org/pdf/2203.14669.pdf
 
@@ -65,6 +73,8 @@ figure：线性回归拟合的图形，其中A5矩阵对两种模式进行了二
 
 论文地址：https://arxiv.org/pdf/2204.08071.pdf
 
+
 [3]Wang, Z. (2022). Game dynamics structure control by design: an example from experimental economics. arXiv preprint arXiv:2203.06088
 
 论文地址：https://arxiv.org/pdf/2203.06088.pdf
+
